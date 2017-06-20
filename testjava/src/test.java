@@ -1,8 +1,8 @@
 
-public class afafa
+public class test
 {
 	public static void main(String[] args)
 	{
-		System.out.println("afagaga");
+		System.out.println("");
 	}
 }
